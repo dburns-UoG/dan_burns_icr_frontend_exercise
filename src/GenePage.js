@@ -7,6 +7,10 @@ import { getImageTag } from './ImageDisplayHelper';
 class GenePage extends Component {
     render() {
         window.scrollTo(0, 0);
+
+        if (this.props.location.state === undefined)
+            return ''
+
         let dataItem = this.props.location.state.data.find((item) => item.id === this.props.match.params.geneId);
 
         return (

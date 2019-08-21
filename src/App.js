@@ -1,12 +1,12 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Route, Link } from "react-router-dom";
 import IndexPage from './IndexPage';
 import GenePage from './GenePage';
 import './App.css';
 
 function App() {
     return (
-        <Router>
+        <Router basename="/">
             <header>
                 <Link to="/">Return to Index</Link>
             </header>
