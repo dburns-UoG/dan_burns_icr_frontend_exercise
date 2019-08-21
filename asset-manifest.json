@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dan_burns_icr_frontend_exercise/static/css/main.f348d377.chunk.css",
+    "main.js": "/dan_burns_icr_frontend_exercise/static/js/main.a8c7f342.chunk.js",
+    "main.js.map": "/dan_burns_icr_frontend_exercise/static/js/main.a8c7f342.chunk.js.map",
+    "runtime~main.js": "/dan_burns_icr_frontend_exercise/static/js/runtime~main.08c0c822.js",
+    "runtime~main.js.map": "/dan_burns_icr_frontend_exercise/static/js/runtime~main.08c0c822.js.map",
+    "static/js/2.e28f807c.chunk.js": "/dan_burns_icr_frontend_exercise/static/js/2.e28f807c.chunk.js",
+    "static/js/2.e28f807c.chunk.js.map": "/dan_burns_icr_frontend_exercise/static/js/2.e28f807c.chunk.js.map",
+    "index.html": "/dan_burns_icr_frontend_exercise/index.html",
+    "precache-manifest.f05250027f5868ca07d1c01e04c37ad1.js": "/dan_burns_icr_frontend_exercise/precache-manifest.f05250027f5868ca07d1c01e04c37ad1.js",
+    "service-worker.js": "/dan_burns_icr_frontend_exercise/service-worker.js",
+    "static/css/main.f348d377.chunk.css.map": "/dan_burns_icr_frontend_exercise/static/css/main.f348d377.chunk.css.map"
+  }
+}
