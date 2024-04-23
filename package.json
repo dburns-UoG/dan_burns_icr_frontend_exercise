@@ -36,6 +36,6 @@
   },
   "homepage": "https://dburns-uog.github.io/dan_burns_icr_frontend_exercise",
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^5.0.0"
   }
 }
